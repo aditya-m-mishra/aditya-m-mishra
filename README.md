@@ -90,10 +90,6 @@ Focus...... : LLMs • Generative AI • Agentic AI
 
 ---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
 ### 🛠️ Tech Stack
 
 | Category | Stack |
@@ -109,25 +105,56 @@ Focus...... : LLMs • Generative AI • Agentic AI
 const skills = "constantly evolving..." // 100%
 ```
 
-</td>
-<td width="33%" valign="top">
+---
 
 ### 🚀 Featured Projects
 
-**[Handwritten Character Recognition](https://github.com/aditya-m-mishra)** `ML`
-Random Forest based recognition system achieving 98.8% accuracy.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**[NLP Spelling Corrector](https://github.com/aditya-m-mishra)** `NLP` `Research`
+**[Handwritten Character Recognition](https://github.com/aditya-m-mishra)**
+&nbsp;
+![ML](https://img.shields.io/badge/-ML-30363D?style=flat-square)
+
+Random Forest based recognition system achieving **98.8% accuracy**.
+
+</td>
+<td width="50%" valign="top">
+
+**[NLP Spelling Corrector](https://github.com/aditya-m-mishra)**
+&nbsp;
+![NLP](https://img.shields.io/badge/-NLP-30363D?style=flat-square)
+![Research](https://img.shields.io/badge/-Research-30363D?style=flat-square)
+
 Context-aware spelling correction using TextBlob. Published at IEEE-IC-RVITM-23.
 
-**[Stock Market Prediction](https://github.com/aditya-m-mishra)** `Deep Learning`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Stock Market Prediction](https://github.com/aditya-m-mishra)**
+&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-30363D?style=flat-square)
+
 Deep learning based analysis and prediction of financial market trends.
 
-**[Real-Time Anomaly Detection](https://github.com/aditya-m-mishra)** `Autoencoder` `GANs`
+</td>
+<td width="50%" valign="top">
+
+**[Real-Time Anomaly Detection](https://github.com/aditya-m-mishra)**
+&nbsp;
+![Autoencoder](https://img.shields.io/badge/-Autoencoder-30363D?style=flat-square)
+![GANs](https://img.shields.io/badge/-GANs-30363D?style=flat-square)
+
 Hybrid deep learning framework for streaming anomaly detection.
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
+
+---
 
 ### 🔬 Research & Interests
 
@@ -138,6 +165,7 @@ Hybrid deep learning framework for streaming anomaly detection.
 - Hybrid DL Approach for Anomalies in Real-Time Data
 
 **Core Interests**
+&nbsp;&nbsp;
 ![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-30363D?style=flat-square)
 ![GenAI](https://img.shields.io/badge/-Generative%20AI-30363D?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-30363D?style=flat-square)
@@ -153,9 +181,7 @@ while (curiosity) {
 }
 ```
 
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
 
